@@ -1,4 +1,4 @@
-Hi, I'm Pranav 👋<br><br>Quantitative Finance enthusiast | Building tools and models for trading, risk, and portfolio optimization.
+Hi, I'm Pranav 👋<br><br> Aspiring quantitative Researcher <br> Currently working on SMA crossover trading bot <br>
 
 
 # 💻 Tech Stack:

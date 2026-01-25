@@ -1,4 +1,4 @@
-Hi, I'm Pranav 👋<br><br> Aspiring quantitative Researcher <br><br> Currently working on SMA crossover trading bot <br>
+Hi, I'm Pranav 👋<br><br> Aspiring Quantitative Researcher <br><br> Currently working on SMA crossover trading bot <br>
 
 
 # 💻 Tech Stack:
